@@ -1,0 +1,17 @@
+
+body{
+    font-family: 'Gabarito', cursive;
+}
+.card{
+    position: relative;
+}
+.ff{
+    margin-top: 250px;
+    position: absolute;
+    bottom: 60px;
+    left: 16px;
+}
+.im{
+    position: absolute;
+    bottom: 50px;
+}
